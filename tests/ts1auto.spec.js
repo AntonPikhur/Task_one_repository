@@ -4,9 +4,9 @@ const generatorPage = require ('../helper/generator.page')
 
 test('test', async ({ page }) => {
 
-    const genLogin = generatorPage.makeLogin(6);
-    const genPass = generatorPage.makePass(8);
-    const genEmail = generatorPage.makeEmail();
+  const genLogin = generatorPage.makeLogin(6);
+  const genPass = generatorPage.makePass(8);
+  const genEmail = generatorPage.makeEmail();
 
   // Go to https://www.redmine.org/
   await page.goto('https://www.redmine.org/');
