@@ -1,6 +1,6 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
-const generatorPage = require ('../../helper/generator.page')
+const generatorPage = require ('../helper/generator.page')
 
 test('test', async ({ page }) => {
 
