@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Sep 17 15:41:32 EEST 2022","Sat Sep 17 15:41:38 EEST 2022","5717","chromium","Playwright-test\ts2auto.spec.js","","","","test",""
+"passed","Sat Sep 17 15:41:32 EEST 2022","Sat Sep 17 15:41:37 EEST 2022","4663","chromium","Playwright-test\ts4auto.spec.js","","","","test",""
+"passed","Sat Sep 17 15:41:32 EEST 2022","Sat Sep 17 15:41:42 EEST 2022","9789","chromium","Playwright-test\ts5auto.spec.js","","","","test",""
+"passed","Sat Sep 17 15:41:32 EEST 2022","Sat Sep 17 15:41:41 EEST 2022","8416","chromium","Playwright-test\ts1auto.spec.js","","","","test",""
+"passed","Sat Sep 17 15:41:32 EEST 2022","Sat Sep 17 15:41:41 EEST 2022","8397","chromium","Playwright-test\ts3auto.spec.js","","","","test",""
